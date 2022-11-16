@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Anupama Jedi🙋🏻‍♀️</h1>
 <h3 align="center">A Passionate Learner 🧑‍🏫🧑‍💻</h3>
-<img align="right" alt="Learning" width="400" src="https://github.com/anupama003/anupama003/blob/main/learning.gif">
+<img align="right" alt="Learning" width="300" src="https://github.com/anupama003/anupama003/blob/main/learning.gif">
 
 - 🌱 I’m currently learning **Cloud Technology, DevOps Tools and Web Development🤓**
 
 - 📫 How to reach me **anupamajedi123@gmail.com**
 
-- ⚡ Fun fact **I love Food🌯, 🛵 Travelling 🛺, Socializing 🏌️ and Oh! Dogs🐶🐾**
+- ⚡ Fun fact **I love Food🌯, 🛵 Travelling 🛺, Socializing🏌️and Oh! Dogs🐶🐾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
